@@ -1,0 +1,25 @@
+{
+    "name": "instcon2016_lti",
+    "description": "Instcon 2016 - LTI PreConf Session",
+    "version": "0.1.0",
+    "author": "Kajigga-dev",
+    "website": "https://coolwebteacher.com",
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kajigga/instcon2016-ltisession.git"
+    },
+    "plugins": {
+        "instcon2016_lti":{}
+    },
+    "installer": "install.js",
+    "categories": [
+        "development"
+    ],
+    "screenshots": [
+        "http://cdn.getgrav.org/user/pages/02.blog/cloud-ide-zero-to-code/cloud9-term.png?a75a9344"
+    ],
+    "licenses": [
+        "MIT"
+    ]
+}
