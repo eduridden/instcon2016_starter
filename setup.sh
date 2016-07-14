@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git clone https://github.com/kajigga/instcon2016-ltisession.git $HOME/workspace/instcon2016
 cd $HOME/workspace/instcon2016
 git checkout tst_step1
